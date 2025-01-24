@@ -4,7 +4,7 @@
 ## "Is liquidity provision informative? Evidence from agricultural
 ## futures markets" by Richie R. Ma and Teresa Serra 
 ###################################################################
-setwd("C:/Users/ruchuan2/Box/phantom liquidity/New results/Price_discovery")
+
 
 rm(list=ls())
 
