@@ -13,4 +13,4 @@ R Codes are provided here for replication purposes. All code files are in R. The
 
 "SVAR_model_estimation" is used to estimate the structural VAR model and calculate impulse response functions and information shares.
 
-Correspondence to Richie R. Ma. OFOR, 416 Mumford Hall, University of Illinois at Urbana-Champaign, 1301 W. Gregory Dr., Urbana, IL 61801. Email: ruchuan2@illinois.edu.
+Correspondence to Richie R. Ma. OFOR, 336 Mumford Hall, University of Illinois at Urbana-Champaign, 1301 W. Gregory Dr., Urbana, IL 61801. Email: ruchuan2@illinois.edu.
